@@ -1,38 +1,38 @@
-<h1 align="center">Olá, eu sou o Lucas Lougon 👋</h1>
+<h1 align="center">Hi, I'm Lucas Lougon 👋</h1>
 
 <h3 align="center">
-  Desenvolvedor Full Stack • Python & IA aplicada • Automação de processos
+  Full Stack Developer • Python & Applied AI • Process Automation
 </h3>
 
 <p align="center">
-  Construo software de ponta a ponta — de automações que geram resultado no negócio a aplicações com IA (RAG),
-  com foco em qualidade, testes e arquitetura limpa.
+  I build software end to end — from automations that drive real business results to AI applications (RAG),
+  with a strong focus on quality, testing, and clean architecture.
 </p>
 
 <p align="center">
-  <a href="https://lucaslougon.com"><img src="https://img.shields.io/badge/Portfólio-lucaslougon.com-6f42c1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
+  <a href="https://lucaslougon.com"><img src="https://img.shields.io/badge/Portfolio-lucaslougon.com-6f42c1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/lucas-lougon"><img src="https://img.shields.io/badge/LinkedIn-lucas--lougon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:lucas.mal2005@gmail.com"><img src="https://img.shields.io/badge/E--mail-lucas.mal2005@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="mailto:lucas.mal2005@gmail.com"><img src="https://img.shields.io/badge/Email-lucas.mal2005@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-- 💻 **+3 anos** de experiência em desenvolvimento de software e automação de processos
-- 🐍 **Back-end** com **Python** (FastAPI, Django) e **TypeScript/React** no front-end
-- 🤖 **IA aplicada**: RAG, embeddings, busca semântica e validação de citações
-- ⚙️ **Automação (RPA)**: Python, Selenium e Playwright, com resultados mensuráveis
-- 🧪 Cultura forte de **testes automatizados**, Clean Architecture e observabilidade
-- 📍 Cariacica, Espírito Santo — Brasil (UTC-3), disponível para trabalho remoto
-- 🌱 Cursando **Tecnologia da Informação** na FAESA
-- 🗣️ Português (nativo) • Inglês **C1 Advanced** (EF SET 66/100)
+- 💻 **3+ years** of experience in software development and process automation
+- 🐍 **Back-end** with **Python** (FastAPI, Django) and **TypeScript/React** on the front-end
+- 🤖 **Applied AI**: RAG, embeddings, semantic search, and citation validation
+- ⚙️ **Automation (RPA)**: Python, Selenium, and Playwright, with measurable results
+- 🧪 Strong culture of **automated testing**, Clean Architecture, and observability
+- 📍 Cariacica, Espírito Santo — Brazil (UTC-3), available for remote work
+- 🌱 Pursuing a **Technology degree in Information Technology** at FAESA
+- 🗣️ Portuguese (native) • English **C1 Advanced** (EF SET 66/100)
 
 ---
 
-## 🛠️ Stack & Ferramentas
+## 🛠️ Tech Stack & Tools
 
-**Linguagens**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -56,7 +56,7 @@
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Dados & Infra**
+**Data & Infra**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -66,14 +66,14 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Testes & Qualidade**
+**Testing & Quality**
 
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
-**IA no desenvolvimento**
+**AI in development**
 
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -81,35 +81,35 @@
 
 ---
 
-## ⭐ Projetos em destaque
+## ⭐ Featured Projects
 
 ### 🧠 [GovIntel AI](https://github.com/LucasAlvesLougon/gov_intel_ai)
-Inteligência documental com **RAG** sobre PDFs: busca semântica e chat com respostas **fundamentadas em citações verificáveis**.
-`Python` · `Django + DRF` · `Next.js` · `PostgreSQL + pgvector` · `Redis` · `Celery` · `RabbitMQ` · **210/210 testes aprovados**
+Document intelligence with **RAG** over PDFs: semantic search and a chat with answers **grounded in verifiable citations**.
+`Python` · `Django + DRF` · `Next.js` · `PostgreSQL + pgvector` · `Redis` · `Celery` · `RabbitMQ` · **210/210 tests passing**
 
 ### 🎬 [Cine Random](https://github.com/LucasAlvesLougon/cine_random)
-PWA colaborativa para grupos sortearem e decidirem o que assistir, com salas em tempo real.
-`FastAPI` · `PostgreSQL` · `React + Vite` · `WebSockets` · `OAuth 2.0` · **54 testes automaticos**
+Collaborative PWA for groups to draw and decide what to watch, with real-time rooms.
+`FastAPI` · `PostgreSQL` · `React + Vite` · `WebSockets` · `OAuth 2.0` · **54 automated tests**
 🔗 [Demo](https://cinerandomseven.vercel.app)
 
 ### ⏱️ [MuPonto](https://muponto.com)
-Plataforma em produção para controle de ponto, saldo de horas e conformidade com regras CLT.
-`React 19` · `TypeScript` · `Laravel` · `MySQL` · `CI/CD (GitHub Actions)` · **59 testes aprovados**
+Production platform for time tracking, hours balance, and compliance with Brazilian CLT rules.
+`React 19` · `TypeScript` · `Laravel` · `MySQL` · `CI/CD (GitHub Actions)` · **59 tests passing**
 🔗 [Web](https://github.com/LucasAlvesLougon/gestao_ponto_web) · [API](https://github.com/LucasAlvesLougon/gestao_ponto_api)
 
-### 🌐 [Portfólio](https://lucaslougon.com)
-Site com estudos de caso técnicos de arquitetura, testes e decisões de projeto.
+### 🌐 [Portfolio](https://lucaslougon.com)
+Website with technical case studies on architecture, testing, and project decisions.
 `Astro 5` · `TypeScript` · `React 19` · `Tailwind CSS`
-🔗 [Repositório](https://github.com/LucasAlvesLougon/portfolio_dev)
+🔗 [Repository](https://github.com/LucasAlvesLougon/portfolio_dev)
 
 ---
 
-## 📫 Vamos conversar
+## 📫 Let's connect
 
 <p align="center">
   <a href="https://linkedin.com/in/lucas-lougon">LinkedIn</a> •
-  <a href="https://lucaslougon.com">Portfólio</a> •
+  <a href="https://lucaslougon.com">Portfolio</a> •
   <a href="mailto:lucas.mal2005@gmail.com">lucas.mal2005@gmail.com</a>
 </p>
 
-<p align="center"><i>“Entender o processo a fundo antes de escrever código — é aí que o resultado aparece.”</i></p>
+<p align="center"><i>“Understand the process deeply before writing code — that's where the results show up.”</i></p>
